@@ -1,0 +1,1 @@
+nohup java -jar notice-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod >log 2>&1 &
